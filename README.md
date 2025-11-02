@@ -19,7 +19,8 @@ An end-to-end analytical tool was developed, starting from raw, messy data and e
 
 
 **Notes**
-- Sensitive customer PII has been removed — sample data only.  
-- Power BI `.pbix` file is provided as a Release or via link (see Releases).
+- The raw data used in this project was compiled from 9 CSV files and merged through Python scripts for analysis.  
+- Due to confidentiality and complexity, raw datasets are not shared.  
+- All results and visuals are generated from the processed dataset.
 
 **License**: MIT
