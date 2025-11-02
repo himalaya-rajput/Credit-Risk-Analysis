@@ -18,6 +18,13 @@ An end-to-end analytical tool was developed, starting from raw, messy data and e
 - `notebooks/` — Data cleaning & model notebooks
 
 
+### 📁 Power BI Report
+The interactive Power BI dashboard (.pbix file) for this project can be downloaded here:  
+👉 [Download Power BI Report (v1.0)](https://github.com/himalaya-rajput/Credit-Risk-Analysis/releases/tag/v1.0)
+
+*(View-only; data used is sample and anonymized.)*
+
+
 **Notes**
 - The raw data used in this project was compiled from 9 CSV files and merged through Python scripts for analysis.  
 - Due to confidentiality and complexity, raw datasets are not shared.  
